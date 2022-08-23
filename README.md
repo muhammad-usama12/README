@@ -4,14 +4,18 @@
 
 This repository contains [Usama's](https://github.com/muhammad-usama12) notes from [Lighthouse Labs](https://www.lighthouselabs.ca) Web Development Bootcamp.
 
-<H2> Table of Contents
+<br/>
 
-<H4>* [Week 1](/Week_1)
-<ul>* [Day 1](/Week_1/Day_1)
+<H3>Table of Contents
 
-1.
-2.
-3.
+<br/>
+
+>[Week 1](/Week_1)
+
+- [Day 1](/Week_1/Day_1)
+<br/>
+
+
 
 
 
